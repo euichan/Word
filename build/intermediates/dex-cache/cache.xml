@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/classes-5ab122ce01e0ff2bafc75d3fabdc5cefaadfd9fe.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-e06772dd8ab027bcc066f20d5956661d75eda64a.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/classes-3c68a024ca453fd39009d764d248f32770f9662f.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/libs/nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/nineoldandroids-2.4.0-3837c940ecfbc3a286893d18f65944246c171c3b.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-ed9df2bf65374d81204331d19b8883ef054eccdc.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/libs/listviewanimations_lib-core_3.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f3f9629b068554d8513a2aaf34418171bf430851">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/listviewanimations_lib-core_3.1.0-468ddd838c2d48c414a94e5870348c9898caecb5.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/exploded-aar/Word_Angle/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="80dff5889051f3b671252273a67e5585874748ed">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/classes-bb4543454914fe6113fa98d6998e03f369088726.jar" />
+    </item>
+    <item
+        jar="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/wbbhe/AndroidStudioProjects/Word_Angle/app/build/intermediates/pre-dexed/debug/classes-5cb22f641fa9573a4fb73f6ec6c87d7d99eaedd3.jar" />
+    </item>
+
+</items>

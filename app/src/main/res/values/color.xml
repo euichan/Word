@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#DA4436</color>
+    <color name="primary_dark">#B93528</color>
+    <color name="accent">#232323</color>
+    <color name="swipe_background">#afcec2</color>
+    <color name="main_back">#ffd6d6cc</color>
+    <color name="yellow">#FFBB33</color>
+    <color name="click">#cfcfc4</color>
+    <color name="normal">#FF6CC3A3</color>
+</resources>
